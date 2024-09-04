@@ -1,7 +1,7 @@
 <!-- Header Section -->
 <h1 align="center">Hi there, I'm Aoudair Chakib 👋</h1>
-<h2>Innovative Engineer | Passionate About Technology and Creativity</h2>
-<p>Driven by a deep fascination with technology and its potential to transform the world. Committed to exploring new ideas and implementing solutions that push the boundaries of innovation.</p>
+<h2 align="center">Innovative Engineer | Passionate About Technology and Creativity</h2>
+<p align="center">Driven by a deep fascination with technology and its potential to transform the world. Committed to exploring new ideas and implementing solutions that push the boundaries of innovation.</p>
 
 <!-- Social Links -->
 <p align="center">
