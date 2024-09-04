@@ -31,8 +31,6 @@ I am a **Junior Software Engineer** with a Master’s degree in Mechatronics Eng
 <!-- Skills Section -->
 ## 🚀 Skills
 
-## 🚀 Skills
-
 <p align="left">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
