@@ -1,6 +1,7 @@
 <!-- Header Section -->
 <h1 align="center">Hi there, I'm Aoudair Chakib 👋</h1>
-<h3 align="center">Aspiring Software Engineer | A Passionate Innovator with a Love for Technology and Problem-Solving</h3>
+<h2>Innovative Engineer | Passionate About Technology and Creativity</h2>
+<p>Driven by a deep fascination with technology and its potential to transform the world. Committed to exploring new ideas and implementing solutions that push the boundaries of innovation.</p>
 
 <!-- Social Links -->
 <p align="center">
@@ -29,7 +30,7 @@ I am a **Junior Software Engineer** with a Master’s degree in Mechatronics Eng
 ---
 
 <!-- Skills Section -->
-## 🚀 Skills
+## 🛠 Skills
 
 <p align="left">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" alt="C" />
@@ -44,10 +45,11 @@ I am a **Junior Software Engineer** with a Master’s degree in Mechatronics Eng
   <img src="https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=database&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/JQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" alt="JQuery" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Bash_Scripting-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" alt="Bash Scripting" />
 </p>
 
 ---
@@ -85,10 +87,10 @@ Université Abdelmalek Essaâdi, Tétouan | 2017 - 2020
 ## 🎖️ Certifications
 
 **ALX Software Engineering Program**  
-*Rigorous project-based learning in full-stack development, emphasizing real-world applications and system design.*
+*Completed the ALX Software Engineering Program, an intensive, project-based curriculum that provided in-depth training in full-stack development. The program focused on practical, real-world projects, fostering skills in system design, coding, and collaborative problem-solving. This experience has equipped me with a strong foundation in software engineering, preparing me for professional roles in the industry.*
 
 **McKinsey Forward Program**  
-*Developed leadership, problem-solving, and communication skills through a comprehensive program focused on professional growth.*
+*Participated in the McKinsey Forward Program, where I developed key leadership, problem-solving, and communication skills. The program offered rigorous training in strategic thinking and professional development, enhancing my ability to tackle complex business challenges and drive effective solutions.*
 
 ---
 
