@@ -23,7 +23,7 @@ I am a **Junior Software Engineer** with a Master's degree in Mechatronics Engin
 
 - 🌱 **Currently learning**: Building with **React**, **Django**, **Flask**, **Express.js**, and **Node.js**
 - 🔭 **Looking for opportunities**: Full-stack development and software engineering roles
-- 💬 **Ask me about**: Full-stack development, problem-solving, project-based learning
+- 💬 **Ask me about**: Computer Science, problem-solving, and Full-stack development
 
 ---
 
