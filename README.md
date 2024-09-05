@@ -56,6 +56,10 @@ I am a **Junior Software Engineer** with a Master's degree in Mechatronics Engin
 - ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 - ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
+### Testing
+- ![Unit Testing](https://img.shields.io/badge/Unit_Testing-6DB33F?style=flat-square&logo=testing-library&logoColor=white)
+- ![Integration Testing](https://img.shields.io/badge/Integration_Testing-6DB33F?style=flat-square&logo=testing-library&logoColor=white)
+
 ### Tools & Platforms
 - ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 - ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
